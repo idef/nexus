@@ -1,0 +1,1 @@
+Los modulos CMS cambie los .ifo x el original para no generar errores.
